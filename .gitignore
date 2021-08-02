@@ -2,3 +2,4 @@ Bencher-Scenarios-RangeIterators-*
 .build
 *~
 nytprof*
+.DS_Store
